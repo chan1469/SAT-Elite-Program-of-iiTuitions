@@ -11,7 +11,7 @@ const ParentReviews: React.FC = () => {
       rating: 5,
       review: "Our son had always been good at academics but was struggling with the SAT format. IITuitions' methodical approach and personalized attention transformed his preparation. The faculty was extremely dedicated and responsive. The 1:1 sessions helped identify his weak areas and work on them systematically. We are eternally grateful to IITuitions for helping our son secure a spot at Stanford!",
       // image: "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-      image: "/images/re1.png", 
+      image: "/images/re1 copy.png",
     },
     {
       name: "Meera Patel",

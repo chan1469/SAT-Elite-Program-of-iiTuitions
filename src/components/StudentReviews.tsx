@@ -53,7 +53,7 @@ const StudentReviews: React.FC = () => {
       score: "1580/1600",
       university: "Harvard University",
       // image: "https://images.pexels.com/photos/3771089/pexels-photo-3771089.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2hs",
-      image: "/images/girl.jpg",
+      image: "/images/girl.JPG",
       review: "IITuitions provided personalized one-on-one coaching that transformed my SAT preparation. Their mock test system prepared me thoroughly for the actual exam. The faculty's dedication and the unlimited hours of support ensured I was fully prepared. I couldn't have achieved my Harvard dream without them!"
     },
     {
@@ -68,14 +68,14 @@ const StudentReviews: React.FC = () => {
       name: "Tanishqa",
       score: "1540/1600",
       university: "Stanford University",
-      image: "https://images.pexels.com/photos/3755021/pexels-photo-3755021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "/images/result1.JPG",
       review: "IITuitions has very dedicated faculty who made me realize the importance of mock tests that played a crucial role in my high score. The study materials were comprehensive and focused on the most important topics. The alumni network also provided valuable insights about university applications and interviews."
     },
     {
       name: "Arjun",
       score: "1570/1600",
       university: "Yale University",
-      image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "/images/result2.JPG",
       review: "IITuitions' regular parent updates kept my family informed of my progress. Their focus on reaching 1500+ in practice tests before taking the SAT gave me confidence. The teachers were always available for doubt-clearing sessions, and their strategy of breaking down complex problems into simpler parts helped me master the most challenging questions."
     }
   ];
