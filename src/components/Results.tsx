@@ -55,7 +55,7 @@ const Results: React.FC = () => {
     {
       name: "Nandini",
       score: "1580/1600",
-      image: "/images/result1.JPG",
+      image: "/images/nandini.JPG",
       university: "Harvard",
       testimonial: "IITuitions provided personalized one-on-one coaching that transformed my SAT preparation. Their mock test system and unlimited hours of support ensured I was fully prepared."
     },
