@@ -1,0 +1,1 @@
+// Removed the entire RegistrationForm component implementation
