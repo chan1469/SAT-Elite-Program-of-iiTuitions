@@ -11,7 +11,7 @@ const ParentReviews: React.FC = () => {
       rating: 5,
       review: "Our son had always been good at academics but was struggling with the SAT format. IITuitions' methodical approach and personalized attention transformed his preparation. The faculty was extremely dedicated and responsive. The 1:1 sessions helped identify his weak areas and work on them systematically. We are eternally grateful to IITuitions for helping our son secure a spot at Stanford!",
       // image: "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-      image: "my_images/re1.png", 
+      image: "/images/re1.png", 
     },
     {
       name: "Meera Patel",
@@ -21,7 +21,7 @@ const ParentReviews: React.FC = () => {
       rating: 5,
       review: "We tried several SAT coaching institutes before finding IITuitions, and I can confidently say they are in a league of their own. The regular progress reports and parent meetings kept us informed about our daughter's improvement. Their mock tests are incredibly accurate, and the detailed analysis helped Sanya focus on her weak areas. The unlimited doubt-solving sessions were a game-changer during the final weeks of preparation!",
       // image: "https://images.pexels.com/photos /1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-      image:"my_images/re2.png",
+      image: "/images/re2.png",
     },
     {
       name: "anjali",
@@ -31,7 +31,7 @@ const ParentReviews: React.FC = () => {
       rating: 5,
       review: "When we enrolled our son at IITuitions, we were impressed by their commitment to excellence. They didn't just promise results; they had a clear roadmap to achieve them. The faculty's expertise is unmatched, and their teaching methods are innovative and effective. The regular mock tests prepared my son not just academically but also mentally for the actual exam. The result? A stunning 1580 and an acceptance letter from Harvard with a substantial scholarship!",
       // image: "https://images.pexels.com/photos/1139743/pexels-photo-1139743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-      image:"my_images/re3.png",
+      image: "/images/re3.png",
     }
   ];
 

@@ -55,21 +55,21 @@ const Results: React.FC = () => {
     {
       name: "Nandini",
       score: "1580/1600",
-      image: "/my_images/result1.jpg",
+      image: "/images/result1.jpg",
       university: "Harvard",
       testimonial: "IITuitions provided personalized one-on-one coaching that transformed my SAT preparation. Their mock test system and unlimited hours of support ensured I was fully prepared."
     },
     {
       name: "Sri Harsha",
       score: "1550/1600",
-      image: "/my_images/result3.jpg",
+      image: "/images/result3.jpg",
       university: "Princeton",
       testimonial: "IITuitions offers plenty of one-on-one time with expert faculty. Their approach helped me improve from 1320 to 1550 and achieve a near-perfect score."
     },
     {
       name: "Tanishqa",
       score: "1540/1600",
-      image: "/my_images/result2.jpg",
+      image: "/images/result2.jpg",
       university: "Stanford",
       testimonial: "IITuitions has very dedicated faculty who made me realize the importance of mock tests that played a crucial role in my high score."
     }

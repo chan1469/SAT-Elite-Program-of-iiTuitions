@@ -53,7 +53,7 @@ const StudentReviews: React.FC = () => {
       score: "1580/1600",
       university: "Harvard University",
       // image: "https://images.pexels.com/photos/3771089/pexels-photo-3771089.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2hs",
-      image: "/my_images/girl.jpg",
+      image: "/images/girl.jpg",
       review: "IITuitions provided personalized one-on-one coaching that transformed my SAT preparation. Their mock test system prepared me thoroughly for the actual exam. The faculty's dedication and the unlimited hours of support ensured I was fully prepared. I couldn't have achieved my Harvard dream without them!"
     },
     {
@@ -61,7 +61,7 @@ const StudentReviews: React.FC = () => {
       score: "1550/1600",
       university: "Princeton University",
       // image: "https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      image: "my_images/sri_harsha.jpg",
+      image: "/images/sri_harsha.jpg",
       review: "IITuitions offers plenty of one-on-one time with expert faculty. Their approach helped me improve from 1320 to 1550 and achieve a near-perfect score. The personalized study plan was tailored to my strengths and weaknesses, and the regular progress tracking kept me motivated throughout my preparation journey."
     },
     {

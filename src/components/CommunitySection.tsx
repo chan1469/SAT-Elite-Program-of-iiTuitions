@@ -79,7 +79,7 @@ const CommunitySection: React.FC = () => {
           
           <div className="order-1 md:order-2 animate-on-scroll">
             <img 
-              src="/my_images/community_img.PNG"
+              src="/images/community_img.PNG"
               alt="Student community"
               className="rounded-xl shadow-xl relative z-10" 
             />

@@ -9,7 +9,7 @@ const Faculty: React.FC = () => {
       experience: "13+ years",
       education: "Ph.D. Mathematics, IIT Delhi",
       // image: "https://images.pexels.com/photos/8197534/pexels-photo-8197534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      image: "my_images/prof.png",
+      image: "/images/prof.png",
       achievements: [
         "Trained 250+ students to achieve 800/800 in SAT Math",
         "Developed proprietary formula shortcuts for SAT problem-solving",
@@ -22,7 +22,7 @@ const Faculty: React.FC = () => {
       experience: "13+ years",
       education: "Masters in English Literature, Oxford University",
       // image: "https://images.pexels.com/photos/8363042/pexels-photo-8363042.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      image: "my_images/prof2.png",
+      image: "/images/prof2.png",
       achievements: [
         "Specialized in SAT Critical Reading and Writing sections",
         "Developed custom vocabulary enhancement techniques",
@@ -35,7 +35,7 @@ const Faculty: React.FC = () => {
       experience: "14+ years",
       education: "MBA, Harvard Business School",
       // image: "https://images.pexels.com/photos/5998516/pexels-photo-5998516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      image: "my_images/prof3.png",
+      image: "/images/prof3.png",
       achievements: [
         "Oversees personalized learning program development",
         "Created the 5-stage SAT preparation methodology",
