@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, Award, BookOpen, CheckCircle } from 'lucide-react';
+import { Award, BookOpen, CheckCircle } from 'lucide-react';
 
 const Hero: React.FC = () => {
   return (

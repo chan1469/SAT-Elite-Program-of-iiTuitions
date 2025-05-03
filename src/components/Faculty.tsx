@@ -1,5 +1,5 @@
 import React from 'react';
-import { Award, BookOpen, Star, CheckCircle, Users, Clock } from 'lucide-react';
+import { Award, BookOpen, CheckCircle, Users, Clock } from 'lucide-react';
 
 const Faculty: React.FC = () => {
   const facultyMembers = [

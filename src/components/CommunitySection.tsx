@@ -1,5 +1,5 @@
 import React from 'react';
-import { Users, MessageCircle, BookOpen, GraduationCap, Globe, UserPlus } from 'lucide-react';
+import { Users, MessageCircle, GraduationCap, Globe, UserPlus } from 'lucide-react';
 
 const CommunitySection: React.FC = () => {
   return (
