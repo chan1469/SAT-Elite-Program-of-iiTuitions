@@ -17,11 +17,10 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
   build: {
-    rollupOptions: {
-      external: ['/src/main.tsx'],
-    },
+    outDir: 'dist',
+    sourcemap: true,
   },
   server: {
-    middlewareMode: true, // Replace 'historyApiFallback' with 'middlewareMode'
+    port: 3000,
   },
 });
