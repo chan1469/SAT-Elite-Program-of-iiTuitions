@@ -60,7 +60,7 @@ const Results: React.FC = () => {
       testimonial: "IITuitions provided personalized one-on-one coaching that transformed my SAT preparation. Their mock test system and unlimited hours of support ensured I was fully prepared."
     },
     {
-      name: "Sri Harsha",
+      name: "Sri Charan",
       score: "1550/1600",
       image: "/images/result3.JPG",
       university: "Princeton",
