@@ -61,7 +61,7 @@ const StudentReviews: React.FC = () => {
       score: "1550/1600",
       university: "Princeton University",
       // image: "https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      image: "/images/sri_harsha.jpg",
+      image: "/images/sri_harsha.JPG",
       review: "IITuitions offers plenty of one-on-one time with expert faculty. Their approach helped me improve from 1320 to 1550 and achieve a near-perfect score. The personalized study plan was tailored to my strengths and weaknesses, and the regular progress tracking kept me motivated throughout my preparation journey."
     },
     {
